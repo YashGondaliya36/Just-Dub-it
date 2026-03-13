@@ -13,7 +13,7 @@
 |---|-------|-------------|--------|
 | [01](./Step_01_The_Big_Picture.md) | **The Big Picture** | Problem, innovation, repo structure, package relationships | ✅ Done |
 | [02](./Step_02_LTX2_Foundation_Model.md) | **LTX-2 Foundation Model** | DiT, dual-stream, AdaLN, RoPE, attention types, FFN, velocity model | ✅ Done |
-| 03 | **VAEs — Compression** | 3D Video VAE, mel-spectrogram Audio VAE, latent spaces | 🔜 Coming |
+| [03](./Step_03_VAEs_Compression.md) | **VAEs — Compression** | 3D Video VAE, mel-spectrogram Audio VAE, latent spaces | ✅ Done |
 | 04 | **Text Encoding with Gemma** | Gemma 3 architecture, dual context embeddings, caption projection | 🔜 Coming |
 | 05 | **Flow Matching & Denoising** | Rectified flow, noise schedules, Euler ODE solver, sigma values | 🔜 Coming |
 | 06 | **The JustDubit Pipeline** | Two-stage inference, CFG guidance, conditioning, cross-attn mask | 🔜 Coming |
